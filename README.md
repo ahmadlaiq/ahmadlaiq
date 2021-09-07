@@ -4,8 +4,8 @@ An independent Software Engineer who loves to create and share projects about we
 
 
 - 🔭 I’m currently working on <a href="#">@CraftronDev</a>
-- 🌱 I’m currently learning about design and back-end
-- 💬 Feel free to ask me about web development or JavaScript
+- 🌱 I’m currently learning about Design and Frontend
+- 💬 Feel free to ask me about Web Development or Flutter
 - 📫 How to reach me: ahmadlaiq97@gmail.com
 - ⚡ Fun fact: Will be Father of a daughter
 
