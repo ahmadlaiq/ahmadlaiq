@@ -19,7 +19,7 @@ An independent Software Engineer who loves to create and share projects about we
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
+- <a href="linkedin.com/in/ahmad-nurul-laiq-31b4641b0/">LinkedIn</a>
 - <a href="https://www.instagram.com/ahmadlaiq__">Instagram</a>
 - ahmadlaiq97@gmail.com
-- <a href="https://twitter/laiqahmad97">Twitter</a>
+- <a href="https://ww.twitter.com/laiqahmad97">Twitter</a>
