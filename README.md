@@ -1,10 +1,10 @@
 ### Hi! 👋 I'm Laiq.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed PHP and make it the main language in creating a project.
 
 
 - 🔭 I’m currently working on <a href="#">@CraftronDev</a>
-- 🌱 I’m currently learning about Design and Frontend
+- 🌱 I’m currently learning about Design and Programming
 - 💬 Feel free to ask me about Web Development or Flutter
 - 📫 How to reach me: ahmadlaiq97@gmail.com
 - ⚡ Fun fact: Will be Father of a daughter
