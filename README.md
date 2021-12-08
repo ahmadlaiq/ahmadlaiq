@@ -1,13 +1,13 @@
 ### Hi! 👋 I'm Laiq.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed PHP and make it the main language in creating a project.
+An Software Engineer Student who loves to create and share projects about web and mobile technology! I've enjoyed javaScript and make it the main language in creating a project.
 
 
-- 🔭 I’m currently working on <a href="#">@CraftronDev</a>
-- 🌱 I’m currently learning about Design and Programming
-- 💬 Feel free to ask me about Web Development or Flutter
+- 🔭 I’m currently studying Software Engineering at <a href="https://uisi.ac.id/">Internasional Semen Indonesia University</a>
+- 🌱 I’m currently learning about WordPress, Laravel, React, and Flutter
+- 💬 Feel free to ask me about Web Dev, Mobile Dev, and Machine Learning
 - 📫 How to reach me: ahmadlaiq97@gmail.com
-- ⚡ Fun fact: Will be Father of a daughter
+- ⚡ Fun fact: I'am like Hiking and Playinng Bridge
 
   
 ### Github Statistic
