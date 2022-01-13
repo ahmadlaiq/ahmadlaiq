@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Laiq.
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Laiq</h1>
 
 An Software Engineer Student who loves to create and share projects about web and mobile technology! I've enjoyed javaScript and make it the main language in creating a project.
 
