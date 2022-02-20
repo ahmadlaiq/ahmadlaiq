@@ -19,7 +19,8 @@ An Software Engineer Student who loves to create and share projects about web an
 </p>
 
 ### Reach me on
+- ahmadlaiq97@gmail.com
 - <a href="https://linkedin.com/in/ahmad-nurul-laiq/">LinkedIn</a>
 - <a href="https://www.instagram.com/ahmadlaiq__">Instagram</a>
-- ahmadlaiq97@gmail.com
+- <a href="https://www.facebook.com/laiq97/">Facebook</a>
 - <a href="https://ww.twitter.com/laiqahmad97">Twitter</a>
