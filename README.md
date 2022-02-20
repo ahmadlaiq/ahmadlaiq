@@ -1,11 +1,11 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Laiq</h1>
 
-An Software Engineer Student who loves to create and share projects about web and mobile technology! I've enjoyed javaScript and make it the main language in creating a project.
+An Software Engineer Student who loves to create and share projects about web and mobile technology! I've enjoyed PHP and make it the main language in creating a project.
 
 
 - 🔭 I’m currently studying Software Engineering at <a href="https://uisi.ac.id/">Internasional Semen Indonesia University</a>
-- 🌱 I’m currently learning about WordPress, Laravel, React, and Flutter
-- 💬 Feel free to ask me about Web Dev, Mobile Dev, and Machine Learning
+- 🌱 I’m currently learning about WordPress, Laravel, VueJS, and Flutter
+- 💬 Feel free to ask me about Web Dev And Mobile Dev
 - 📫 How to reach me: ahmadlaiq97@gmail.com
 - ⚡ Fun fact: I'am like Hiking and Playinng Bridge
 
