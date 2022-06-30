@@ -4,8 +4,8 @@ An Software Engineer Student who loves to create and share projects about web an
 
 
 - 🔭 I’m currently studying Software Engineering at <a href="https://uisi.ac.id/">Internasional Semen Indonesia University</a>
-- 🌱 I’m currently learning about WordPress, Laravel, VueJS, and Flutter
-- 💬 Feel free to ask me about Web Dev And Mobile Dev
+- 🌱 I’m currently learning about Laravel, Flutter and Machine Learning
+- 💬 Feel free to ask me about Web Develompent and Machine Learning
 - 📫 How to reach me: ahmadlaiq97@gmail.com
 - ⚡ Fun fact: I'am like Hiking and Playinng Bridge
 
