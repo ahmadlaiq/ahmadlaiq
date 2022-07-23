@@ -7,7 +7,7 @@ An Software Engineer Student who loves to create and share projects about web an
 - 🌱 I’m currently learning about Laravel and ReactJS
 - 💬 Feel free to ask me about Web Develompent
 - 📫 How to reach me: ahmadlaiq97@gmail.com
-- ⚡ Fun fact: I'am like Hiking and Playinng Bridge
+- ⚡ Fun fact: I'am like Hiking and Playing Bridge
 
   
 ### Github Statistic
