@@ -23,4 +23,4 @@ An Computer Science Student who loves to create and share projects about web and
 - <a href="https://linkedin.com/in/ahmad-nurul-laiq/">LinkedIn</a>
 - <a href="https://www.instagram.com/ahmadlaiq__">Instagram</a>
 - <a href="https://www.facebook.com/laiq97/">Facebook</a>
-- <a href="https://ww.twitter.com/laiqahmad97">Twitter</a>
+- <a href="https://www.twitter.com/laiqahmad97">Twitter</a>
