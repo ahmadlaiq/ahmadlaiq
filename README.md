@@ -1,6 +1,6 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Laiq</h1>
 
-An Computer Science Student who loves to create and share projects about web and mobile technology! I've enjoyed PHP and Javascript and make it the main language in creating a project.
+An Computer Science Student who loves to create and share projects about web technology! I've enjoyed PHP and Javascript and make it the main language in creating a project.
 
 
 - 🔭 I’m currently studying Computer Science at <a href="https://uisi.ac.id/">Internasional Semen Indonesia University</a>
