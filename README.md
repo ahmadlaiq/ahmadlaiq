@@ -1,12 +1,12 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Laiq</h1>
 
-An Web Developer who loves to create and share projects about web technology! I've enjoyed Javascript and make it the main language in creating a project.
+An Web Developer who loves to create and share projects about web technology! I've enjoyed PHP and make it the main language in creating a project.
 
 
-- 🔭 I’m currently learning about Javascript 
+- 🔭 I’m currently learning about Golang 
 - 🌱 I’m currently focusing about Laravel and VueJS
 - 📫 Feel free to ask me about Web Develompent
-- ⚡ Fun fact: I'am like Hiking and Playing Bridge
+- ⚡ Fun fact: I'am like Hiking and Watching Movie
 - 💬 “Information is the oil of the 21st century, and analytics is the combustion engine.” – Peter Sondergaard
 
   
