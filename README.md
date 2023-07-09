@@ -3,8 +3,8 @@
 An Web Developer who loves to create and share projects about web technology! I've enjoyed PHP and make it the main language in creating a project.
 
 
-- 🔭 I’m currently learning about Golang 
-- 🌱 I’m currently focusing about Laravel and VueJS
+- 🔭 I’m currently learning about Golang and Node.JS
+- 🌱 I’m currently focusing about Laravel and Vue.JS
 - 📫 Feel free to ask me about Web Develompent
 - ⚡ Fun fact: I'am like Hiking and Watching Movie
 - 💬 “Information is the oil of the 21st century, and analytics is the combustion engine.” – Peter Sondergaard
