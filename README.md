@@ -17,11 +17,3 @@ An Web Developer who loves to create and share projects about web technology! I'
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadlaiq&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### Reach me on
-- ahmadlaiq97@gmail.com
-- <a href="https://ahmadlaiq.my.id/">Website</a>
-- <a href="https://linkedin.com/in/ahmad-nurul-laiq/">LinkedIn</a>
-- <a href="https://www.instagram.com/ahmadlaiq__">Instagram</a>
-- <a href="https://www.facebook.com/laiq97/">Facebook</a>
-- <a href="https://www.twitter.com/laiqahmad97">Twitter</a>
