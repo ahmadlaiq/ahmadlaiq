@@ -1,12 +1,10 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Laiq</h1>
 
-An Web Developer who loves to create and share projects about web technology! I've enjoyed PHP and make it the main language in creating a project.
+An Laravel Developer with experience in developing innovative and efficient web solutions. With a deep understanding of the MVC concept and experience in building complex database-driven applications, I am passionate about delivering high-quality and easy-to-use products. I believe in solid team collaboration and good communication, and am always eager to learn and stay abreast of the latest technology in the world of web development.
 
 
 - 🔭 I’m currently learning about Golang and Node.JS
 - 🌱 I’m currently focusing about Laravel and Vue.JS
-- 📫 Feel free to ask me about Web Develompent
-- ⚡ Fun fact: I'am like Hiking and Watching Movie
 - 💬 “Information is the oil of the 21st century, and analytics is the combustion engine.” – Peter Sondergaard
 
   
