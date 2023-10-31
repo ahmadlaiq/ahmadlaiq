@@ -3,8 +3,8 @@
 An Laravel Developer with experience in developing innovative and efficient web solutions. With a deep understanding of the MVC concept and experience in building complex database-driven applications, I am passionate about delivering high-quality and easy-to-use products. I believe in solid team collaboration and good communication, and am always eager to learn and stay abreast of the latest technology in the world of web development.
 
 
-- 🔭 I’m currently learning about Golang and Node.JS
-- 🌱 I’m currently focusing about Laravel and Vue.JS
+- 🔭 I’m currently learning about Golang, NodeJS, and Python
+- 🌱 I’m currently focusing about Laravel and VueJS
 - 💬 “Information is the oil of the 21st century, and analytics is the combustion engine.” – Peter Sondergaard
 
   
