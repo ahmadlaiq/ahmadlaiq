@@ -4,7 +4,7 @@ An Laravel Developer with experience in developing innovative and efficient web 
 
 
 - 🔭 I’m currently learning about Golang, NodeJS, and Python
-- 🌱 I’m currently focusing about Laravel and VueJS
+- 🌱 I’m currently focusing about Laravel and ReactJS
 - 💬 “Information is the oil of the 21st century, and analytics is the combustion engine.” – Peter Sondergaard
 
   
