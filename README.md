@@ -1,6 +1,6 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Laiq</h1>
 
-An Laravel Developer with experience in developing innovative and efficient web solutions. With a deep understanding of the MVC concept and experience in building complex database-driven applications, I am passionate about delivering high-quality and easy-to-use products. I believe in solid team collaboration and good communication, and am always eager to learn and stay abreast of the latest technology in the world of web development.
+An Laravel Developer with experience in developing innovative and efficient web solutions. I am passionate about delivering high-quality and easy-to-use products.
 
 
 - 🔭 I’m currently learning about Golang, NodeJS, and Python
