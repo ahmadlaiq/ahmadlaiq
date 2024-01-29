@@ -65,3 +65,7 @@ An Laravel Developer with experience in developing innovative and efficient web 
 </div>
 
 ###
+
+### LeetCode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ahmadlaiq?ext=contest)
