@@ -3,7 +3,7 @@
 An Laravel Developer with experience in developing innovative and efficient web solutions. I am passionate about delivering high-quality and easy-to-use products.
 
 
-- 🔭 I’m currently learning about Golang and NodeJS
+- 🔭 I’m currently learning about Golang
 - 🌱 I’m currently focusing about Laravel and ReactJS
 - 💬 “Information is the oil of the 21st century, and analytics is the combustion engine.” – Peter Sondergaard
 
