@@ -61,7 +61,7 @@ An Laravel Developer with experience in developing innovative and efficient web 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" height="40" alt="ubuntu logo"  />
 </div>
 
 ###
