@@ -33,6 +33,8 @@ An Laravel Developer with experience in developing innovative and efficient web 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Astro.svg" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -46,6 +48,8 @@ An Laravel Developer with experience in developing innovative and efficient web 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
@@ -62,6 +66,11 @@ An Laravel Developer with experience in developing innovative and efficient web 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
 </div>
 
 ###
