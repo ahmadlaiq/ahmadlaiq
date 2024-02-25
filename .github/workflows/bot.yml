@@ -28,3 +28,4 @@ jobs:
           force: true
           directory: "."
           github_token: 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
+          branch: main
