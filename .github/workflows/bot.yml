@@ -1,31 +1,46 @@
-name: Green Commit
+name: Scanner Data Update
 
 on:
   push:
     branches:
       - main
-
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */4 * * *"
 
 jobs:
-  auto-commit:
+  update-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
     steps:
-      - uses: actions/checkout@v2      
-        with:
-          persist-credentials: false
-          fetch-depth: 0
+    - uses: actions/checkout@v2      
+      with:
+        persist-credentials: false
+        fetch-depth: 0
 
-      - name: Run Bot Task
-        run: |
-          chmod +x ./task.sh
-          ./task.sh
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
 
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          force: true
-          directory: "."
-          github_token: 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
-          branch: main
+    - name: Install dependencies
+      run: npm install
+
+    - name: Fetch Market Scanner Data
+      run: |
+        node index.js || echo "Failed to fetch data"
+
+    - name: Run Bot Task
+      run: |
+        chmod +x ./task.sh
+        ./task.sh
+
+    - name: Commit and push if there are changes
+      uses: ad-m/github-push-action@master
+      with:
+        force: true
+        directory: "."
+        branch: main
+        github_token: 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
