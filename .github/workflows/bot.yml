@@ -27,5 +27,5 @@ jobs:
         with:
           force: true
           directory: "."
-          github_token: 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
+          github_token: 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
           branch: main
