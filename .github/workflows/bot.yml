@@ -1,0 +1,30 @@
+name: Green Commit
+
+on:
+  push:
+    branches:
+      - main
+
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2      
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Run Bot Task
+        run: |
+          chmod +x ./task.sh
+          ./task.sh
+
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          force: true
+          directory: "."
+          github_token: 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
