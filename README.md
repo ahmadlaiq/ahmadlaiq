@@ -1,6 +1,6 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Laiq</h1>
 
-An Laravel Developer with experience in developing innovative and efficient web solutions. I am passionate about delivering high-quality and easy-to-use products.
+full stack developer an passionate about delivering high-quality and easy-to-use products. I have experience for 2+ years in various full stack developer. I believe in solid team collaboration and good communication, and am always eager to learn and stay abreast of the latest technology in the world of software development.
 
 
 - 🔭 I’m currently learning about NodeJS and Golang
@@ -15,69 +15,6 @@ An Laravel Developer with experience in developing innovative and efficient web 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadlaiq&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### Tech Stack
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Alpine.js.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Astro.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Livewire.svg" height="40" alt="Livewire logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-</div>
-
-###
 
 ### LeetCode
 
