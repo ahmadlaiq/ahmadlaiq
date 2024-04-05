@@ -5,7 +5,7 @@ full stack developer an passionate about delivering high-quality and easy-to-use
 
 - 🔭 I’m currently learning about NodeJS and Golang
 - 🌱 I’m currently focusing about Laravel and ReactJS
-- 💬 “Information is the oil of the 21st century, and analytics is the combustion engine.” – Peter Sondergaard
+- 💬 If you are seeking a driven and experienced software developer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success
 
   
 ### Github Statistic
