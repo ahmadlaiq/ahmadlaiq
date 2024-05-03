@@ -3,8 +3,8 @@
 full stack developer an passionate about delivering high-quality and easy-to-use products. I have experience for 2+ years in various full stack developer. I believe in solid team collaboration and good communication, and am always eager to learn and stay abreast of the latest technology in the world of software development.
 
 
-- 🔭 I’m currently learning about NodeJS and Golang
-- 🌱 I’m currently focusing about Laravel and VueJS
+- 🔭 I’m currently learning Golang
+- 🌱 I’m currently focusing Laravel, NodeJS and VueJS
 
 If you are seeking a driven and experienced software developer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success
 
