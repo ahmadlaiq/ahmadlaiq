@@ -1,12 +1,12 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Laiq</h1>
 
-full stack developer an passionate about delivering high-quality and easy-to-use products. I have experience for 2+ years in various full stack developer. I believe in solid team collaboration and good communication, and am always eager to learn and stay abreast of the latest technology in the world of software development.
+full stack developer an passionate about delivering high-quality and easy-to-use products. I have experience for 2+ years in various full stack developer and DevOps. I helping people or companies to delivering hight quality product and keeping uptodate with the latest technologies.
 
 
 - 🔭 I’m currently learning Golang
 - 🌱 I’m currently focusing Laravel, NodeJS and VueJS
 
-If you are seeking a driven and experienced software developer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success
+If you are seeking a driven and experienced full stack developer and DevOps to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success.
 
   
 ### Github Statistic
