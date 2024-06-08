@@ -4,7 +4,7 @@ I have experience for 2+ years in various full stack developer. I helping people
 
 
 - 🔭 I’m currently learning Golang
-- 🌱 I’m currently focusing Laravel, NodeJS and VueJS
+- 🌱 I’m currently focusing Laravel, ExpressJS and VueJS
 
 If you are seeking a driven and experienced full stack developer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success.
 
