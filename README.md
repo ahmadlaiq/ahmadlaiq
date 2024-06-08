@@ -1,6 +1,6 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Laiq</h1>
 
-full stack developer an passionate about delivering high-quality and easy-to-use products. I have experience for 2+ years in various full stack developer. I helping people or companies to delivering hight quality product and keeping uptodate with the latest technologies.
+I have experience for 2+ years in various full stack developer. I helping people or companies to delivering hight quality product and keeping uptodate with the latest technologies.
 
 
 - 🔭 I’m currently learning Golang
