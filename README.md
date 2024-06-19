@@ -1,10 +1,10 @@
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Laiq</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Ahmad</h1>
 
 I have experience for 2+ years in various full stack developer. I helping people or companies to delivering hight quality product and keeping uptodate with the latest technologies.
 
 
 - 🔭 I’m currently learning Golang
-- 🌱 I’m currently focusing Laravel, ExpressJS and VueJS
+- 🌱 I’m currently focusing Laravel, ExpressJS, HonoJS, NestJS and VueJS
 
 If you are seeking a driven and experienced full stack developer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success.
 
