@@ -5,7 +5,7 @@ I have experience for 2+ years in various Software Engineer. I helping people or
 
 - 🔭 I’m currently learning Golang
 - 🌱 I’m currently focusing:
-   - Backend (Laravel, ExpressJS, HonoJS, NestJS)
+   - Backend (Laravel, ExpressJS, HonoJS, Go Fiber)
    - Frontend (VueJS, SvelteKit)
 
 If you are seeking a driven and experienced Software Engineer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success.
