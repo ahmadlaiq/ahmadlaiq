@@ -5,8 +5,9 @@ I have experience for 2+ years in various Software Engineer. I helping people or
 
 - 🔭 I’m currently learning Golang
 - 🌱 I’m currently focusing:
-   - Backend (Laravel, ExpressJS, HonoJS, Golang)
-   - Frontend (VueJS, SvelteKit)
+   - Fullstack (Laravel, SvelteKit, AstroJS)
+   - Backend (ExpressJS, HonoJS, Golang)
+   - Frontend (VueJS, Svelte)
 
 If you are seeking a driven and experienced Software Engineer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success.
 
