@@ -3,8 +3,8 @@
 I have experience for 2+ years in various Software Engineer. I helping people or companies to delivering hight quality product and keeping uptodate with the latest technologies.
 
 
-- 🔭 I’m currently learning Golang
-- 🌱 I’m currently focusing:
+- 🔭 I’m currently learning Golang and Rust
+- 🌱 I’m currently working with:
    - Fullstack (Laravel, SvelteKit, AstroJS)
    - Backend (ExpressJS, HonoJS, Golang)
    - Frontend (VueJS, Svelte)
