@@ -1,6 +1,6 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Ahmad</h1>
 
-I have experience for 2+ years in various Software Engineer. I helping people or companies to delivering hight quality product and keeping uptodate with the latest technologies.
+I have experience for 2+ years in various Backend Engineer. I helping people or companies to delivering hight quality product and keeping uptodate with the latest technologies.
 
 
 - 🔭 I’m currently learning Golang
@@ -9,7 +9,7 @@ I have experience for 2+ years in various Software Engineer. I helping people or
    - Backend (ExpressJS, HonoJS, Golang)
    - Frontend (VueJS, Svelte)
 
-If you are seeking a driven and experienced Software Engineer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success.
+If you are seeking a driven and experienced Backend Engineer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success.
 
   
 ### Github Statistic
