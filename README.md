@@ -9,7 +9,7 @@ I have experience for 3+ years in various Backend Developer. I helping people or
 - 🌱 I’m currently working with:
    - Fullstack (Laravel, SvelteKit, AstroJS)
    - Backend (ExpressJS, HonoJS, Golang)
-   - Frontend (VueJS, Svelte)
+   - Frontend (VueJS, NuxtJS, Svelte)
 
 If you are seeking a driven and experienced Backend Developer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success.
 
