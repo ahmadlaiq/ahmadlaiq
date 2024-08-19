@@ -25,3 +25,6 @@ If you are seeking a driven and experienced Backend Developer to join your team,
 ### LeetCode
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ahmadlaiq?ext=contest)
+
+### Latest Medium Post
+<p><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmadlaiq97/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmadlaiq97/0" width="100%" />
