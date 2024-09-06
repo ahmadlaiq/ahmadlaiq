@@ -8,7 +8,7 @@ I have experience for 3+ years in various Backend Developer. I helping people or
 - 🔭 I’m currently learning Golang
 - 🌱 I’m currently working with:
    - Fullstack (Laravel, AstroJS)
-   - Backend (ExpressJS, HonoJS, Golang)
+   - Backend (ExpressJS, NestJS, HonoJS, Golang)
    - Frontend (VueJS, NuxtJS)
    - DevOps (Ubuntu, Nginx, PM2, Docker, Github CI/CD, Gitlab CI/CD, Jenkins, Prometheus, Grafana)
 
@@ -27,5 +27,3 @@ If you are seeking a driven and experienced Backend Developer to join your team,
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ahmadlaiq?ext=contest)
 
-### Latest Medium Post
-<p><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmadlaiq97/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmadlaiq97/0" width="100%" />
