@@ -2,7 +2,7 @@
 
 
 <h3 align="center">Full Stack Developer!</h3>
-I have experience for 3+ years in various Backend Developer. I helping people or companies to delivering hight quality product and keeping uptodate with the latest technologies 😄
+I have experience for 3+ years in various Full Stack Developer. I helping people or companies to delivering hight quality product and keeping uptodate with the latest technologies 😄
 
 
 - 🔭 I’m currently learning Golang
