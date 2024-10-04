@@ -7,9 +7,9 @@ I have experience for 3+ years in various Full Stack Developer. I helping people
 
 - 🔭 I’m currently learning Golang
 - 🌱 I’m currently working with:
-   - Fullstack (Laravel, AstroJS)
+   - Fullstack (Laravel, AstroJS, SvelteKit)
    - Backend (ExpressJS, NestJS, HonoJS, Golang)
-   - Frontend (VueJS, NuxtJS)
+   - Frontend (VueJS, NuxtJS, Svelte)
    - DevOps (Ubuntu, Nginx, PM2, Docker, Github CI/CD, Gitlab CI/CD, Jenkins, Prometheus, Grafana)
 
 If you are seeking a driven and experienced Backend Developer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success.
