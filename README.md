@@ -8,7 +8,7 @@ I have experience for 3+ years in various Full Stack Developer. I helping people
 - 🔭 I’m currently learning Golang
 - 🌱 I’m currently working with:
    - Fullstack (Laravel, AstroJS)
-   - Backend (ExpressJS, NestJS, HonoJS, Golang)
+   - Backend (ExpressJS, HonoJS, Golang)
    - Frontend (VueJS, NuxtJS, ReactJS)
    - DevOps (Ubuntu, Nginx, PM2, Docker, Github CI/CD, Gitlab CI/CD, Jenkins, Prometheus, Grafana)
 
