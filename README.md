@@ -28,7 +28,7 @@ If you are seeking a driven and experienced Backend Developer to join your team,
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ahmadlaiq?ext=contest)
 
-### Weekly development breakdown
+### Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
 ```txt
