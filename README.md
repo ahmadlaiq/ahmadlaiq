@@ -30,9 +30,4 @@ If you are seeking a driven and experienced Backend Developer to join your team,
 
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
