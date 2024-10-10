@@ -30,4 +30,10 @@ If you are seeking a driven and experienced Backend Developer to join your team,
 
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
+
+```txt
+PHP    37 mins         ████████████████████████░   96.38 %
+Bash   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+```
+
 <!--END_SECTION:waka-->
