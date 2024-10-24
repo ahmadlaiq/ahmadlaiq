@@ -32,11 +32,11 @@ If you are seeking a driven and experienced Backend Developer to join your team,
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                        9 hrs 45 mins   █████████████████████▓░░░   86.54 %
-Bash                       31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-Blade Template             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Docker                     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-JSON                       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+PHP                        10 hrs 54 mins  ██████████████████████▒░░   89.58 %
+Bash                       31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Docker                     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+JSON                       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+JavaScript                 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
