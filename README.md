@@ -11,7 +11,7 @@ I have experience for 3+ years in various Full Stack Developer. I helping people
    - Back-end (ExpressJS, HonoJS, Golang)
    - Front-end (VueJS, NuxtJS, ReactJS)
    - Database (PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Redis)
-   - DevOps (Ubuntu, Nginx, PM2, Docker, Github CI/CD, Gitlab CI/CD, Jenkins, Prometheus, Grafana)
+   - DevOps (Ubuntu, Nginx, PM2, Docker, Github CI/CD, Gitlab CI/CD, Jenkins, Prometheus, Grafana, Azure, GCP)
 
 If you are seeking a driven and experienced Backend Developer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success.
 
