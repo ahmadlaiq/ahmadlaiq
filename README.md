@@ -32,11 +32,11 @@ If you are seeking a driven and experienced Backend Developer to join your team,
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              25 hrs 14 mins  ██████████████████▓░░░░░░   74.53 %
-Vue.js           2 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Other            1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Prisma           1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-JavaScript       1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+PHP              25 hrs 14 mins  ██████████████████░░░░░░░   71.38 %
+Vue.js           3 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+JavaScript       1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Other            1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Prisma           1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
