@@ -5,7 +5,7 @@
 I have experience for 3+ years in various Full Stack Developer. I helping people or companies to delivering hight quality product and keeping uptodate with the latest technologies 😄
 
 
-- 🔭 I’m currently learning Golang
+- 🔭 I’m currently learning Golang & React Native
 - 🌱 I’m currently working with:
    - Full Stack (Laravel, AstroJS)
    - Back-end (ExpressJS, AdonisJS, HonoJS, Golang)
