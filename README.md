@@ -33,11 +33,11 @@ If you are seeking a driven and experienced Backend Developer to join your team,
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              8 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   29.92 %
-Vue.js           5 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
-Blade Template   3 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-JavaScript       3 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-C++              2 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+PHP              8 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   35.01 %
+Blade Template   3 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+Vue.js           3 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+C++              2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+HTML             2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
 ```
 
 <!--END_SECTION:waka-->
