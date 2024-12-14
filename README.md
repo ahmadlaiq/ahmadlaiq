@@ -2,19 +2,25 @@
 
 
 <h3 align="center">Full Stack Developer!</h3>
-I have experience for 3+ years in various Full Stack Developer. I helping people or companies to delivering hight quality product and keeping uptodate with the latest technologies 😄
+I am a Full Stack Developer with over 3 years of experience, specializing in Web Scraping and Automation using tools like Selenium. I am passionate about building robust and scalable solutions, helping businesses automate workflows, extract valuable insights, and solve real-world problems effectively.  
 
+---
 
-- 🔭 I’m currently learning Golang & React Native
-- 🌱 I’m currently working with:
-   - Full Stack (Laravel, AstroJS)
-   - Back-end (ExpressJS, AdonisJS, HonoJS, Golang)
-   - Front-end (VueJS, NuxtJS, ReactJS, ElectronJS)
-   - Database (PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Redis)
-   - DevOps (Ubuntu, Nginx, PM2, Frankenphp, Docker, Github CI/CD, Gitlab CI/CD, Jenkins, Prometheus, Grafana, Azure, GCP, )
-   - Automation (Selenium)
+- 🔭 **I’m currently learning:**  
+  - Golang  
+  - React Native  
 
-If you are seeking a driven and experienced Backend Developer to join your team, then I would welcome the opportunity to discuss how my skills and expertise can contribute to your organization's success.
+- 🌱 **I’m currently working with:**  
+  - **Full Stack Development:** Laravel, AstroJS  
+  - **Backend Development:** ExpressJS, AdonisJS, HonoJS, Golang  
+  - **Frontend Development:** VueJS, NuxtJS, ReactJS, ElectronJS  
+  - **Databases:** PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Redis  
+  - **DevOps:** Ubuntu, Nginx, PM2, Frankenphp, Docker, GitHub CI/CD, GitLab CI/CD, Jenkins, Prometheus, Grafana, Azure, GCP  
+  - **Web Scraping & Automation:** Selenium  
+
+---
+
+If you are looking for a skilled Full Stack Developer with expertise in **Web Scraping**, **Automation**, and modern development practices, I would welcome the opportunity to collaborate and contribute to your organization's success.  
 
   
 ### Github Statistic
