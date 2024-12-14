@@ -1,7 +1,7 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Ahmad</h1>
 
 
-<h3 align="center">Full Stack Developer, Web Scraping and Web Automation </h3>
+<h3 align="center">Full Stack Developer | Web Scraping | Web Automation </h3>
 I am a Full Stack Developer with over 3 years of experience, specializing in Web Scraping and Automation using tools like Selenium. I am passionate about building robust and scalable solutions, helping businesses automate workflows, extract valuable insights, and solve real-world problems effectively.  
 
 ---
