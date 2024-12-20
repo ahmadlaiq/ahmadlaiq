@@ -14,7 +14,7 @@ I am a Full Stack Developer with over 3 years of experience, specializing in Web
   - **Frontend Development:** VueJS, NuxtJS, ReactJS, ElectronJS  
   - **Databases:** PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Redis  
   - **DevOps:** Ubuntu, Nginx, PM2, Frankenphp, Docker, GitHub CI/CD, GitLab CI/CD, Jenkins, Prometheus, Grafana, Azure, GCP  
-  - **Web Scraping & Automation:** Selenium, Puppeteer  
+  - **Web Scraping & Automation:** Selenium, Puppeteer, Appium  
 
 
 
