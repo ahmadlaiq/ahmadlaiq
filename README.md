@@ -6,7 +6,6 @@ I am a Full Stack Developer with over 3 years of experience, specializing in Web
 
 - 🔭 **I’m currently learning:**  
   - Golang  
-  - React Native  
 
 - 🌱 **I’m currently working with:**  
   - **Full Stack Development:** Laravel, AstroJS  
