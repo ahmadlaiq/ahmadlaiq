@@ -37,11 +37,10 @@ If you are looking for a skilled Full Stack Developer with expertise in **Web Sc
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              5 hrs 30 mins   ████████████▓░░░░░░░░░░░░   50.48 %
-Blade Template   3 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   31.03 %
-JavaScript       1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-Astro            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-JSON             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+PHP              4 hrs 52 mins   ████████████████▓░░░░░░░░   66.49 %
+Blade Template   1 hr 58 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
+Vue.js           28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
