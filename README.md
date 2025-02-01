@@ -29,9 +29,6 @@ If you are looking for a skilled Full Stack Developer with expertise in **Web Sc
 </a>
 </p>
 
-### LeetCode
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/ahmadlaiq?ext=contest)
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
