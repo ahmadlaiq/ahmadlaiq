@@ -7,10 +7,9 @@ I am a Full Stack Developer with over 3 years of experience, specializing in Web
 - 🔭 **I’m currently learning:**  
   - Golang  
 
-- 🌱 **I’m currently working with:**  
-  - **Full Stack Development:** Laravel, AstroJS  
-  - **Backend Development:** ExpressJS, AdonisJS, HonoJS, Golang  
-  - **Frontend Development:** jQuery, VueJS, NuxtJS, ReactJS, ElectronJS  
+- 🌱 **I’m currently working with:**   
+  - **Backend Development:** Laravel, Codeigniter, Express.js, Adonis.js, Nest.js, Hono.js, Golang  
+  - **Frontend Development:** jQuery, Astro.js, Vue.js, Nuxt.js, React.js, Electron.js  
   - **Databases:** PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Redis  
   - **DevOps:** Ubuntu, Nginx, PM2, Frankenphp, Docker, GitHub CI/CD, GitLab CI/CD, Jenkins, Prometheus, Grafana, Azure, GCP  
   - **Web Scraping & Automation:** Selenium, Puppeteer, Appium  
