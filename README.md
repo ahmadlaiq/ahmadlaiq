@@ -33,11 +33,11 @@ If you are looking for a skilled Full Stack Developer with expertise in **Web Au
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       9 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   43.10 %
-PHP              9 hrs 9 mins    ██████████░░░░░░░░░░░░░░░   40.09 %
-Blade Template   3 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
-Bash             32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JavaScript       12 hrs 24 mins  ███████████░░░░░░░░░░░░░░   44.36 %
+PHP              11 hrs 28 mins  ██████████▒░░░░░░░░░░░░░░   41.02 %
+Blade Template   3 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Bash             33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
