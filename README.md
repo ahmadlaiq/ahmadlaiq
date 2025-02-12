@@ -2,7 +2,6 @@
 
 
 <h3 align="center">Full Stack Developer | Web & Mobile Automation </h3>
-I am a Full Stack Developer with over 3 years of experience, specializing in Web Scraping, Web Automation, and Mobile Automation using tools like Selenium, Puppeteer, and Appium. I am passionate about building robust and scalable solutions, helping businesses automate workflows, extract valuable insights, and solve real-world problems effectively.
 
 - 🔭 **I’m currently learning:**  
   - Golang  
