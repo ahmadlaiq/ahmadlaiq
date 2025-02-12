@@ -3,15 +3,9 @@
 
 <h3 align="center">Full Stack Developer | Web & Mobile Automation </h3>
 
-- 🔭 **I’m currently learning:**  
-  - Golang  
+- 🔭 **I’m currently learning:** `React Native`  
 
-- 🌱 **I’m currently working with:**   
-  - **Backend Development:** Laravel, Codeigniter, Express.js, Adonis.js, Nest.js, Hono.js, Golang  
-  - **Frontend Development:** jQuery, Astro.js, Vue.js, Nuxt.js, React.js, Electron.js  
-  - **Databases:** PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Redis  
-  - **DevOps:** Ubuntu, Nginx, PM2, Frankenphp, Docker, GitHub CI/CD, GitLab CI/CD, Jenkins, Prometheus, Grafana, Azure, GCP  
-  - **Web Scraping & Automation:** Selenium, Puppeteer, Appium  
+- 🔨 **I’m currently working with:** `Golang`, `Laravel`, and `React.js` are my favorite tech.
 
 
 
