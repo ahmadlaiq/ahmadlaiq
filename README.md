@@ -25,11 +25,11 @@ A **Full Stack Developer** with 3 years of experience and an advocate for buildi
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   7 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   35.87 %
-PHP              7 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.62 %
-JavaScript       6 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   29.33 %
-JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Blade Template   9 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   36.01 %
+PHP              9 hrs 45 mins   █████████░░░░░░░░░░░░░░░░   35.69 %
+JavaScript       7 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   28.16 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
