@@ -3,7 +3,7 @@
 
 <h3 align="center">Full Stack Developer | Web & Mobile Automation </h3>
 
-A **Full Stack Developer** with 3 years of experience and an advocate for building **high-quality** and **easy-to-use** and **inclusive** digital products.
+A **Full Stack Developer** with 3 years of experience and an advocate for building **high-quality**, **easy-to-use** and **inclusive** digital products.
 - 🔭 **I’m currently learning:** `React Native`  
 
 - 🔨 **I’m currently working with:** `Golang`, `Laravel`, and `React.js` are my favorite tech.
