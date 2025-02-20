@@ -5,8 +5,6 @@
 
 A **Full Stack Developer** with 3 years of experience and an advocate for building **high-quality**, **easy-to-use** and **inclusive** digital products.
 
-- 🔭 **I’m currently learning:** `Mobile Development`  
-
 - 🔨 **Working with:** `Golang`, `Laravel`, `Vue.js`, and `Nuxt.js` are my favorite tech.
 
 
