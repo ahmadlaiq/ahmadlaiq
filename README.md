@@ -7,9 +7,6 @@ A **Full Stack Developer** with 3 years of experience and an advocate for buildi
 
 - 🔨 Working with: `Golang`, `Laravel`, `Vue.js`, and `Nuxt.js`.
 
-
-
----
   
 ### Github Statistic
 <p align="left">
