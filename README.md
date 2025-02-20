@@ -3,9 +3,9 @@
 
 <h3 align="center">Full Stack Developer | Web & Mobile Automation </h3>
 
-A **Full Stack Developer** with 3 years of experience and an advocate for building **high-quality**, **easy-to-use** and **inclusive** digital products.
+A **Full Stack Developer** with 3 years of experience and an advocate for building high-quality, easy-to-use and inclusive digital products.
 
-- 🔨 **Working with:** `Golang`, `Laravel`, `Vue.js`, and `Nuxt.js` are my favorite tech.
+- 🔨 Working with: `Golang`, `Laravel`, `Vue.js`, and `Nuxt.js`.
 
 
 
