@@ -4,8 +4,9 @@
 <h3 align="center">Full Stack Developer | Web & Mobile Automation </h3>
 
 A **Full Stack Developer** with 3 years of experience and an advocate for building high-quality, easy-to-use and inclusive digital products.
+I'm currently a Full Stack Developer [@PetrokimiaGresik](https://petrokimia-gresik.com) transforming challenges into elegant code solutions for web development.
 
-- 🔨 Working with: `Golang`, `Laravel`, `Vue.js`, and `Nuxt.js`.
+- Working with: `Golang`, `Laravel`, `Vue.js`, and `Nuxt.js`.
 
   
 ### Github Statistic
