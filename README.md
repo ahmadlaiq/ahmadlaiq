@@ -7,7 +7,7 @@ A **Full Stack Developer** with 3 years of experience and an advocate for buildi
 
 - 🔭 **I’m currently learning:** `Mobile Development`  
 
-- 🔨 **I’m currently working with:** `Golang`, `Laravel`, `Vue.js`, and Nuxt.js are my favorite tech.
+- 🔨 **Working with:** `Golang`, `Laravel`, `Vue.js`, and `Nuxt.js` are my favorite tech.
 
 
 
