@@ -22,10 +22,11 @@ I'm currently a Full Stack Developer [@PetrokimiaGresik](https://petrokimia-gres
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   8 hrs 56 mins   ██████████░░░░░░░░░░░░░░░   40.65 %
-PHP              8 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   39.57 %
-JavaScript       4 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
-Bash             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+PHP              9 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.89 %
+Blade Template   8 hrs 18 mins   ██████████▒░░░░░░░░░░░░░░   41.12 %
+JavaScript       2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Bash             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
