@@ -7,7 +7,7 @@ A Full Stack Developer with 3 years of experience and an advocate for building h
 
 - Working at: [@PetrokimiaGresik](https://petrokimia-gresik.com)
 - Working with: `Golang`, `Laravel`, `Vue.js`, and `Nuxt.js`.
-- Eksploring: `SvelteKit`
+- Exploring: `SvelteKit`
 
   
 ### Github Statistic
