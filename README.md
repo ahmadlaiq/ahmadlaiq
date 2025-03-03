@@ -23,11 +23,11 @@ A Full Stack Developer with 3 years of experience and an advocate for building h
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       12 hrs 19 mins  ██████████▒░░░░░░░░░░░░░░   41.64 %
-PHP              10 hrs 21 mins  ████████▓░░░░░░░░░░░░░░░░   34.98 %
-Blade Template   5 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-Bash             43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-JSON             30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JavaScript       14 hrs 35 mins  ███████████▒░░░░░░░░░░░░░   44.69 %
+PHP              10 hrs 25 mins  ████████░░░░░░░░░░░░░░░░░   31.92 %
+Blade Template   5 hrs 58 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
+JSON             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Bash             43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
