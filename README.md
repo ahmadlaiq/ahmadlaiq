@@ -3,7 +3,8 @@
 
 <h3 align="center">Full Stack Developer | Web & Mobile Automation </h3>
 
-A Full Stack Developer with 3 years of experience and an advocate for building high-quality, easy-to-use, and inclusive digital products. I am dedicated to utilizing modern technology to solve complex problems and drive business success. Collaboration, communication, and a commitment to continuous learning are integral to my approach. I stay up-to-date with the latest technologies, and am always eager to take on new challenges.
+A Full Stack Developer with 3 years of experience and an advocate for building high-quality, easy-to-use, and inclusive digital products. I am dedicated to utilizing modern technology to solve complex problems and drive business success. I stay up-to-date with the latest technologies, and am always eager to take on new challenges.
+
 
 - Working at: [@PetrokimiaGresik](https://petrokimia-gresik.com)
 - Working with: `Golang`, `Laravel`, `Vue.js`, `React.js`, and `Nuxt.js`.
