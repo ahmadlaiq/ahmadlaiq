@@ -5,7 +5,7 @@
 - 🏢 Working at: [@PetrokimiaGresik](https://petrokimia-gresik.com)  
 - 💻 3+ Years Experience as Full Stack Developer  
 - 🛠️ Working with: `Golang`, `Laravel`, `Vue.js`, `React.js`, and `Nuxt.js`  
-- 🔭 Exploring: `SvelteKit`
+- ❤️ My favorite: 'TypeScript', 'Svelte', and 'Golang'
 
   
 ### Github Statistic
