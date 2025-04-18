@@ -7,6 +7,7 @@
 - 🛠️ Working with: `Golang`, `Laravel`, `Vue.js`, `React.js`, and `Nuxt.js`  
 - ❤️ My favorite: `TypeScript`, `Svelte`, and `Golang`
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 ### Github Statistic
 <p align="left">
@@ -16,6 +17,7 @@
 </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
