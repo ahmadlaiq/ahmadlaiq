@@ -2,8 +2,8 @@
 
 <h3 align="center">Full Stack Developer | Web & Mobile Automation | DevOps </h3>
 
-- 🏢 Working at: [@PetrokimiaGresik](https://petrokimia-gresik.com)  
-- 💻 3+ Years Experience as Full Stack Developer  
+- 🏢 Full Stack Developer at: [@PetrokimiaGresik](https://petrokimia-gresik.com)  
+- 💻 3+ Years Experience  
 - 🛠️ Working with: `Golang`, `Laravel`, `Vue.js`, `React.js`, and `Nuxt.js`  
 - ❤️ My favorite: `TypeScript`, `Svelte`, and `Golang`
 
