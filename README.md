@@ -1,6 +1,6 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Ahmad</h1>
 
-<h3 align="center">Full Stack Developer | Web & Mobile Automation | DevOps </h3>
+<h3 align="center">Full Stack Developer | Automation Developer | DevOps </h3>
 
 - 🏢 Full Stack Developer at: [@PetrokimiaGresik](https://petrokimia-gresik.com)  
 - 💻 3+ Years Experience  
