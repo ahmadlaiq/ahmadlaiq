@@ -9,6 +9,7 @@
     - **Frontend**: `Vue.js`, `React.js`, `Nuxt.js`
     - **Automation**: `Python`, `JavaScript`  
 - ❤️ My favorite: `TypeScript`, `SvelteKit`, and `Golang`
+- 🧠 **My philosophy**: *Best results come from a blend of strong technical fundamentals, clear communication, and a collaborative spirit.*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
