@@ -7,6 +7,7 @@
 - 🛠️ Working with: 
     - **Backend**: `Golang`, `Laravel`
     - **Frontend**: `Vue.js`, `React.js`, `Nuxt.js`
+    - **Frontend**: `Flutter`
     - **Automation**: `Python`, `JavaScript`  
 - ❤️ My favorite: `TypeScript`, `SvelteKit`, and `Golang`
 - 🧠 **My philosophy**: *Best results come from a blend of strong technical fundamentals, clear communication, and a collaborative spirit.*
