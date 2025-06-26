@@ -5,8 +5,8 @@
 - 🏢 Full Stack Developer at: [@PetrokimiaGresik](https://petrokimia-gresik.com)  
 - 💻 3+ Years Experience  
 - 🛠️ Working with: 
-    - **Backend**: `Golang`, `Laravel`
-    - **Frontend**: `Vue.js`, `React.js`, `Nuxt.js`
+    - **Backend**: `Golang`, `Laravel`, `FastAPI`
+    - **Frontend**: `React.js`, `Nuxt.js`
     - **Frontend**: `Flutter`
     - **Automation**: `Python`, `JavaScript`  
 - ❤️ My favorite: `TypeScript`, `SvelteKit`, and `Golang`
